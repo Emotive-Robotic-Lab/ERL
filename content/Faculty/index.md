@@ -5,7 +5,7 @@ order = 1
 
 
 
-**FACULTY**
+**FACULTY HXDI**
 
 
 {{< bio src="HeatherBarker.png" name="Heather Barker" url="heather.barker@csulb.edu "affiliation=" Interim Chair, Associate Professor of Design, Graduate Coordinator Department Chair, Tenured, Faculty" >}}
