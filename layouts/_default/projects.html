@@ -1,0 +1,23 @@
+{{ define "title" }}
+{{ .Site.Title }} &ndash; {{ .Title }}
+{{ end }}
+
+{{ define "main" }}
+{{ .Content }}
+
+<div class="students">
+
+
+    {{ range $cohort := .Param "cohort" }}
+    <h2>{{ $cohort.name}}</h2>
+    <div class='student-group'>
+        {{ range $student := $cohort.students }}
+        <div class='student'>
+            <img src="{{ $student.image }}" />
+            <iframe title="vimeo-player" src="{{ $student.video }}" frameborder="0" allowfullscreen></iframe>
+            <h3>{{ $student.name }}</h3>
+        </div>
+        {{ end }}
+    </div>
+    {{ end }}
+    {{ end }}
