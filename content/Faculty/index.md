@@ -55,17 +55,18 @@ Krai has been teaching Computer Aided Design‐3D Modeling, at CSULB since 2002.
 
 
 
-{{< bio src="JonathanLo.png" name="Jonathan Lo" url="jonathan.lo@csulb.edu" affiliation="Part-Time Lecturer" >}}
 
-Jonathan Lo works at the intersection of business and design strategy, helping people and organizations express their big ideas by building impactful brands.
+{{< bio src="JuditSamper.png" name="Judit Samper" url=Judit.Samper@csulb.edu" affiliation="Part-Time Lecturer" >}}
 
-As the Creative Director at Virgin Orbit – the Long Beach, California-based NewSpace rocket launch start-up, he is responsible for designing the brand experience across physical and digital platforms. Prior to Virgin Orbit, he worked at several agencies including Mirada and 2x4. He has also shaped in-house visual design systems as Design Director at Shop Architects and The Eli and Edythe Broad Foundation. He supports additional projects through Public Assembly, collaborating with mission-driven partners like The Bronx Museum of the Arts, NRG Station A, New York University, and The Broad Center.
+Judit Samper, is a Brooklyn-based multidisciplinary artist with nearly 15 years of multimedia experience. She studied Fine Arts in Spain, France and England. She worked in TV as a motion graphics artist, camera, editor and director of live programs and she has specialized in Virtual
+Reality shooting, post production, editing and VFX. 
 
-Jonathan graduated with a Bachelor of Science in Economics from the Wharton School at the University of Pennsylvania. Before transitioning to design, he worked as an investment banker, a consultant at an economics think tank, and an instructor at a wall street financial training firm. He has co-founded several entrepreneurial initiatives including The Drop, an art festival designed to fill vacant space in New York City during the Great Recession; and Sugar Pie Honey Buns, an online bakery with a digital-first business model. Outside of the workplace, he is a passionate climate change activist with Al Gore’s Climate Reality Project.
+In her artistic practice she works with Illustration, Photography and Video, using these tools for her most personal projects. Judit Samper has developed her own techniques to common problems in the VR cinematic industry, she has worked close to software developers to improve the tools that this media needed and helps companies with their approach in the Pre-Production, Production and Post-Production of Cinematic VR to help them acquire the best technical and Storytelling results in their pieces.
+
+She has contributed to more than 60 VR productions. Some of the clients she worked for include Google, Disney, The Metropolitan Museum of New York, CBS, United Launch Alliance, Conde Nast and World Vision.Her work has been exhibited internationally in Spain, France, Portugal and New York, and has won several awards in video and photography. Her work for the New York Times, “Under a Cracked Sky”, was an official selection at the Tribeca Film Festival in 2017. In 2020, “Still Here”, a piece she worked on for Al Jazeera, was an official selection at Sundance in 2020.
 
 
 {{< /bio >}}
-
 
 
 {{< bio src="AaronMiller.png" name="Aaron Miller" url="aaron.miller@csulb.edu" affiliation="Part-Time Lecturer" >}}
@@ -81,18 +82,17 @@ Aaron received his Bachelor of Fine Arts in Interior Design from the University 
 {{< /bio >}}
 
 
-{{< bio src="JuditSamper.png" name="Judit Samper" url=Judit.Samper@csulb.edu" affiliation="Part-Time Lecturer" >}}
 
-Judit Samper, is a Brooklyn-based multidisciplinary artist with nearly 15 years of multimedia experience. She studied Fine Arts in Spain, France and England. She worked in TV as a motion graphics artist, camera, editor and director of live programs and she has specialized in Virtual
-Reality shooting, post production, editing and VFX. 
+{{< bio src="JonathanLo.png" name="Jonathan Lo" url="jonathan.lo@csulb.edu" affiliation="Part-Time Lecturer" >}}
 
-In her artistic practice she works with Illustration, Photography and Video, using these tools for her most personal projects. Judit Samper has developed her own techniques to common problems in the VR cinematic industry, she has worked close to software developers to improve the tools that this media needed and helps companies with their approach in the Pre-Production, Production and Post-Production of Cinematic VR to help them acquire the best technical and Storytelling results in their pieces.
+Jonathan Lo works at the intersection of business and design strategy, helping people and organizations express their big ideas by building impactful brands.
 
-She has contributed to more than 60 VR productions. Some of the clients she worked for include Google, Disney, The Metropolitan Museum of New York, CBS, United Launch Alliance, Conde Nast and World Vision.Her work has been exhibited internationally in Spain, France, Portugal and New York, and has won several awards in video and photography. Her work for the New York Times, “Under a Cracked Sky”, was an official selection at the Tribeca Film Festival in 2017. In 2020, “Still Here”, a piece she worked on for Al Jazeera, was an official selection at Sundance in 2020.
+As the Creative Director at Virgin Orbit – the Long Beach, California-based NewSpace rocket launch start-up, he is responsible for designing the brand experience across physical and digital platforms. Prior to Virgin Orbit, he worked at several agencies including Mirada and 2x4. He has also shaped in-house visual design systems as Design Director at Shop Architects and The Eli and Edythe Broad Foundation. He supports additional projects through Public Assembly, collaborating with mission-driven partners like The Bronx Museum of the Arts, NRG Station A, New York University, and The Broad Center.
+
+Jonathan graduated with a Bachelor of Science in Economics from the Wharton School at the University of Pennsylvania. Before transitioning to design, he worked as an investment banker, a consultant at an economics think tank, and an instructor at a wall street financial training firm. He has co-founded several entrepreneurial initiatives including The Drop, an art festival designed to fill vacant space in New York City during the Great Recession; and Sugar Pie Honey Buns, an online bakery with a digital-first business model. Outside of the workplace, he is a passionate climate change activist with Al Gore’s Climate Reality Project.
 
 
 {{< /bio >}}
-
 
 
 

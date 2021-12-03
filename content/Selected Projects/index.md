@@ -61,6 +61,6 @@ video= "https://player.vimeo.com/video/577432011?h=b9e3865805"
 +++
 
 
-**ABOUT COHORT**
+**ABOUT SELECTED PROJECTS**
 
-The HXDI selected projects include interdisciplinary works which spans across scales and mediums. They include 
+The HXDI selected projects include interdisciplinary works which spans across scales, mediums, theory and practice. Students engages with AI Deep Learning Algorithms, Physical Computing, Algorithmic Design, 360 Videos, VR, AR, Creative Coding and Immersive Installations.
