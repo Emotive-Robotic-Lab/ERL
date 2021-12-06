@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on HXDI</title>
+    <title>Tags on HXDI Website</title>
     <link>https://julian-behnaz.github.io/HXDI-Website/tags/</link>
-    <description>Recent content in Tags on HXDI</description>
+    <description>Recent content in Tags on HXDI Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://julian-behnaz.github.io/HXDI-Website/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
