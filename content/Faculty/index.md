@@ -23,7 +23,7 @@ Farahi has won several awards including [the Cooper Hewitt Smithsonian Design Mu
 
 {{< /bio >}}
 
-{{< bio src="SteveBoyer.png" name="Steve Boyer" url=steve.boyer@csulb.edu" affiliation="Assistant Professor Faculty, Tenure-Track" >}}
+{{< bio src="SteveBoyer.png" name="Steve Boyer" url="https://www.csulb.edu/design/page/steve-boyer" affiliation="Assistant Professor Faculty, Tenure-Track" >}}
 
 Steve Boyer is an artist, designer, inventor, entrepreneur and educator with over 25 years of experience developing technology and creating content for a wide variety of interactive media including video games, electronic toys, musical instruments and fine art installations. He has served as a software engineer, hardware engineer, designer and producer at top media entertainment companies and has been on the faculty of the leading art, design and technology programs in the US including The School of the Art Institute of Chicago, Otis College of Art and Design and The
 University of California at San Diego.
@@ -35,7 +35,7 @@ Mr. Boyer earned his Master of Architecture degree at The Southern California In
 
 
 
-{{< bio src="MichaelLaforte.png" name="Michael Laforte" url="michael.laforte@csulb.edu" affiliation="Full-time Lecturer" >}}
+{{< bio src="MichaelLaforte.png" name="Michael Laforte" url="https://www.csulb.edu/design/page/michael-laforte" affiliation="Full-time Lecturer" >}}
 
 Lecturer LaForte joined the Department of Design in the Fall of 2010 and is a Visualization Specialist and having produced close to a thousand high-profile competitions is a Promotional Specialist and Leading Marketing Strategist. Since 2011 he has led the design of our departmental
 website and social media campaigns. From 2011-2013 he was a Faculty-in-Residence with the university where he mentored student residents in all areas of study and organized life skills and educational events. As a supplement to his classroom instruction he produces streamable video tutorials of perspective drawing and rendering demos. Videos are available to all and can be found on his LaForte Daily Demos Youtube channel.
@@ -46,7 +46,7 @@ SOM in New York. Working with multi-disciplinary teams, he has designed and dire
 {{< /bio >}}
 
 
-{{< bio src="KraiCharu.png" name="Krai Charuwatsuntorn" affiliation="Part-Time Lecturer" >}}
+{{< bio src="KraiCharu.png" name="Krai Charuwatsuntorn" url="https://www.csulb.edu/design/page/krai-charuwatsuntorn" affiliation="Part-Time Lecturer" >}}
 
 Krai has been teaching Computer Aided Design‐3D Modeling, at CSULB since 2002. Professionally he has been working in the field of 3D graphics and animation for the past 5 years. Since then, he has been exploring new computer lighting techniques for many prestigious clients, ranging from Richard Meirer Architects to the Ford Motor Company. His work has been published in Architectural Record, The Digital Unbuilt and many others. He is currently the 3D Visualization Director for Standard, located in Downtown Los Angeles.
 
@@ -56,7 +56,7 @@ Krai has been teaching Computer Aided Design‐3D Modeling, at CSULB since 2002.
 
 
 
-{{< bio src="JuditSamper.png" name="Judit Samper" url=Judit.Samper@csulb.edu" affiliation="Part-Time Lecturer" >}}
+{{< bio src="JuditSamper.png" name="Judit Samper" url="https://www.csulb.edu/design/page/judit-samper" affiliation="Part-Time Lecturer" >}}
 
 Judit Samper, is a Brooklyn-based multidisciplinary artist with nearly 15 years of multimedia experience. She studied Fine Arts in Spain, France and England. She worked in TV as a motion graphics artist, camera, editor and director of live programs and she has specialized in Virtual
 Reality shooting, post production, editing and VFX. 
@@ -69,7 +69,7 @@ She has contributed to more than 60 VR productions. Some of the clients she work
 {{< /bio >}}
 
 
-{{< bio src="AaronMiller.png" name="Aaron Miller" url="aaron.miller@csulb.edu" affiliation="Part-Time Lecturer" >}}
+{{< bio src="AaronMiller.png" name="Aaron Miller" url="https://www.csulb.edu/design/page/aaron-miller" affiliation="Part-Time Lecturer" >}}
 
 Aaron operates at the intersection of design, technology, storytelling, and human experience. His work and that of his teams enable meaningful connections between audiences and brands.
 

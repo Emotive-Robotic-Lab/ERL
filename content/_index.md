@@ -21,4 +21,3 @@ The Master of Arts in Human Experience Design Interactions (MA_HXDI) is comprise
 {{< vimeo 609145781 >}}
 
  
-*Contact: info@HXDI.org*
