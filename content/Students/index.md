@@ -29,7 +29,9 @@ image= "./NargesGoshayeshisafa.png"
 [[cohort.students]]
 name= "Raul Garza"
 image= "./RaulGarza.png"
-
+[[cohort.students]]
+name= "Parmiss Jamshidabadi"
+image= "./Parmiss.png"
 
 
 [[cohort]]
