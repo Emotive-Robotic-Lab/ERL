@@ -3,6 +3,18 @@ title = "Selected Projects"
 order = 3
 layout = "projects"
 
+
+[[cohort]]
+name= "X3 Selected Projects"
+
+
+
+[[cohort.students]]
+name= "Xen: Tangible Interface by Alison Yanacek, Kelby Sandvick, Narges Safa"
+video= "https://player.vimeo.com/video/658305041?h=4c67b53aa9" 
+
+
+
 [[cohort]]
 name= "X2 Selected Projects"
 
