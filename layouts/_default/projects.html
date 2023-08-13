@@ -12,13 +12,10 @@
         {{ range $student := $cohort.students }}
         <div class='student'>
             <img src="{{ $student.image }}" />
-            {{ if $student.vimeo }}
             <iframe title="vimeo-player" src="{{ $student.video }}" frameborder="0" allowfullscreen></iframe>
-            {{ end }}
             <h3>{{ $student.name }}</h3>
         </div>
         {{ end }}
     </div>
     {{ end }}
-</div>
-{{ end }}
+    {{ end }}
