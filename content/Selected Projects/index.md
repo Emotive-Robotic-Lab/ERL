@@ -9,7 +9,7 @@ name= "X3 Selected Projects"
 
 [[cohort.students]]
 name= "Robotic Dispensing"
-video= "https://youtu.be/SFSVFUO5ZOY"
+video= "https://www.youtube.com/watch?v=SFSVFUO5ZOY&t=2s&ab_channel=BehnazFarahi"
 
 
 [[cohort]]
