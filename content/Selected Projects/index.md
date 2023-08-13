@@ -3,6 +3,10 @@ title = "Selected Projects"
 order = 3
 layout = "projects"
 
+[[cohort.students]]
+name= "Robotic Dispensing"
+video= "https://youtu.be/SFSVFUO5ZOY"
+
 
 [[cohort]]
 name= "X3 Selected Projects"
