@@ -13,9 +13,9 @@
         <div class='student'>
             <img src="{{ $student.image }}" />
             {{ if $student.vimeo }}
-            <iframe title="vimeo-player" src="{{ $student.vimeo }}" frameborder="0" allowfullscreen></iframe>
+            <iframe title="vimeo-player" src="{{ $student.video }}" frameborder="0" allowfullscreen></iframe>
             {{ else if $student.youtube }}
-            <iframe width="560" height="315" src="{{ $student.youtube }}" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="{{ $student.video }}" frameborder="0" allowfullscreen></iframe>
             {{ end }}
             <h3>{{ $student.name }}</h3>
         </div>
