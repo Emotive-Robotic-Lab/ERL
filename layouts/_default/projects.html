@@ -8,6 +8,7 @@
 <div class="students">
 
 
+
     {{ range $cohort := .Param "cohort" }}
     <h2>{{ $cohort.name}}</h2>
     <div class='student-group'>
@@ -15,6 +16,8 @@
         <div class='student'>
             <img src="{{ $student.image }}" />
             <iframe title="vimeo-player" src="{{ $student.video }}" frameborder="0" allowfullscreen></iframe>
+            {{ else if $student.youtube }}
+            <iframe width="560" height="315" src="{{ $student.youtube }}" frameborder="0" allowfullscreen></iframe>
             <h3>{{ $student.name }}</h3>
         </div>
         {{ end }}
