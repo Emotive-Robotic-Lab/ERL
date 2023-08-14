@@ -154,7 +154,7 @@ HXDI &ndash; Selected Projects
 
         .student {
             display: flex;
-
+            max-width: 20%;
             justify-content: center;
             flex-direction: column;
         }
@@ -262,145 +262,140 @@ HXDI &ndash; Selected Projects
 
     <div class="container main-content">
         
+<style>
+    .selected-projects {
+        display: grid;
+        gap: 0px 20px;
+    }
+    
+     
+    .selected-projects {
+        grid-template-columns: 100%;
+    }
+     
+    @media (min-width: 780px) {
+        .selected-projects {
+            grid-template-columns: 50% 50%;
+        }
+    }
+
+    .student-project {
+        margin-bottom: 1rem;
+    }
+    
+    .student-project h3 {
+        font-size: 1rem;
+    }
+
+    .student-project .title {
+        text-transform: uppercase;
+    }
+
+    .project-video_container {
+        background-color: black;
+        display: flex;
+    }
+
+    .project-video_container iframe {
+        width: 100%;
+        aspect-ratio: 2;
+    }
+</style>
+
 <p><strong>ABOUT SELECTED PROJECTS</strong></p>
 <p>The Emotive Robotic Lab selected projects include interdisciplinary works which spans across scales and mediums, theory and practice. Students engages with AI Deep Learning Algorithms, Physical Computing, Algorithmic Design, VR, AR, Creative Coding and Immersive Installations.</p>
 
 
-<div class="students">
-
-
-    
-    
+<div class="selected-projects">
     
         
-        <div class='student'>
-            
-
-            <div class='videoStudent-container'>
-
-                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/SFSVFUO5ZOY" frameborder="0" allowfullscreen></iframe>
+        <div class="student-project">
+            <div class="project-video_container">
+                <iframe src="https://www.youtube.com/embed/SFSVFUO5ZOY" frameborder="0" allowfullscreen></iframe>
             </div>
-            <h3>Robotic Dispensing</h3>
+            <h3><span class="title">Robotic Dispensing</span> <span class="authors"></span></h3>
         </div>
         
-        
-    
-    
     
         
-        <div class='student'>
-            
-
-            <div class='videoStudent-container'>
-
-                <iframe width="100%" height="100%" src="https://player.vimeo.com/video/658305041?h=4c67b53aa9" frameborder="0" allowfullscreen></iframe>
+        <div class="student-project">
+            <div class="project-video_container">
+                <iframe src="https://player.vimeo.com/video/658305041?h=4c67b53aa9" frameborder="0" allowfullscreen></iframe>
             </div>
-            <h3>Xen: Tangible Interface by Alison Yanacek, Kelby Sandvick, Narges Safa</h3>
+            <h3><span class="title">Xen: Tangible Interface</span> <span class="authors">by Alison Yanacek, Kelby Sandvick, Narges Safa</span></h3>
         </div>
         
-        
-    
-    
     
         
-        <div class='student'>
-            
-
-            <div class='videoStudent-container'>
-
-                <iframe width="100%" height="100%" src="https://player.vimeo.com/video/577432640" frameborder="0" allowfullscreen></iframe>
+        <div class="student-project">
+            <div class="project-video_container">
+                <iframe src="https://player.vimeo.com/video/577432640" frameborder="0" allowfullscreen></iframe>
             </div>
-            <h3>Global Masks And Deep Learning by Nicole Escalante &amp; Maria Fryer</h3>
+            <h3><span class="title">Global Masks And Deep Learning</span> <span class="authors">by Nicole Escalante &amp; Maria Fryer</span></h3>
         </div>
         
-        <div class='student'>
-            
-
-            <div class='videoStudent-container'>
-
-                <iframe width="100%" height="100%" src="https://player.vimeo.com/video/577432948?h=783224d90e" frameborder="0" allowfullscreen></iframe>
+        <div class="student-project">
+            <div class="project-video_container">
+                <iframe src="https://player.vimeo.com/video/577432948?h=783224d90e" frameborder="0" allowfullscreen></iframe>
             </div>
-            <h3>Synesthesia and Ai by Valiny Lovan &amp; Jessica Olsen</h3>
+            <h3><span class="title">Synesthesia and Ai</span> <span class="authors">by Valiny Lovan &amp; Jessica Olsen</span></h3>
         </div>
         
-        <div class='student'>
-            
-
-            <div class='videoStudent-container'>
-
-                <iframe width="100%" height="100%" src="https://player.vimeo.com/video/577432495?h=e24a1080b7" frameborder="0" allowfullscreen></iframe>
+        <div class="student-project">
+            <div class="project-video_container">
+                <iframe src="https://player.vimeo.com/video/577432495?h=e24a1080b7" frameborder="0" allowfullscreen></iframe>
             </div>
-            <h3>Emotional Intelligence by Jonathan Lai &amp; Novia Elvina</h3>
+            <h3><span class="title">Emotional Intelligence</span> <span class="authors">by Jonathan Lai &amp; Novia Elvina</span></h3>
         </div>
         
-        <div class='student'>
-            
-
-            <div class='videoStudent-container'>
-
-                <iframe width="100%" height="100%" src="https://player.vimeo.com/video/577433257?h=93f0adf657" frameborder="0" allowfullscreen></iframe>
+        <div class="student-project">
+            <div class="project-video_container">
+                <iframe src="https://player.vimeo.com/video/577433257?h=93f0adf657" frameborder="0" allowfullscreen></iframe>
             </div>
-            <h3>Interactive Structure by Zahra Golestanha</h3>
+            <h3><span class="title">Interactive Structure</span> <span class="authors">by Zahra Golestanha</span></h3>
         </div>
         
-        <div class='student'>
-            
-
-            <div class='videoStudent-container'>
-
-                <iframe width="100%" height="100%" src="https://player.vimeo.com/video/577433617?h=0044f5e94c" frameborder="0" allowfullscreen></iframe>
+        <div class="student-project">
+            <div class="project-video_container">
+                <iframe src="https://player.vimeo.com/video/577433617?h=0044f5e94c" frameborder="0" allowfullscreen></iframe>
             </div>
-            <h3>Research Method Video Essay by Valiny Lovan</h3>
+            <h3><span class="title">Research Method Video Essay</span> <span class="authors">by Valiny Lovan</span></h3>
         </div>
         
-        <div class='student'>
-            
-
-            <div class='videoStudent-container'>
-
-                <iframe width="100%" height="100%" src="https://player.vimeo.com/video/577433896?h=8374c25094" frameborder="0" allowfullscreen></iframe>
+        <div class="student-project">
+            <div class="project-video_container">
+                <iframe src="https://player.vimeo.com/video/577433896?h=8374c25094" frameborder="0" allowfullscreen></iframe>
             </div>
-            <h3>Research Method Video Essay by Nicole Escalante</h3>
+            <h3><span class="title">Research Method Video Essay</span> <span class="authors">by Nicole Escalante</span></h3>
         </div>
         
-        <div class='student'>
-            
-
-            <div class='videoStudent-container'>
-
-                <iframe width="100%" height="100%" src="https://player.vimeo.com/video/577723420?h=c20f5c9173" frameborder="0" allowfullscreen></iframe>
+        <div class="student-project">
+            <div class="project-video_container">
+                <iframe src="https://player.vimeo.com/video/577723420?h=c20f5c9173" frameborder="0" allowfullscreen></iframe>
             </div>
-            <h3>Smart VAI by Jessica Blay, Nicole Escalante and Taylor Rice</h3>
+            <h3><span class="title">Smart VAI</span> <span class="authors">by Jessica Blay, Nicole Escalante and Taylor Rice</span></h3>
         </div>
         
-        <div class='student'>
-            
-
-            <div class='videoStudent-container'>
-
-                <iframe width="100%" height="100%" src="https://player.vimeo.com/video/577432340?h=d4366bb7dd" frameborder="0" allowfullscreen></iframe>
+        <div class="student-project">
+            <div class="project-video_container">
+                <iframe src="https://player.vimeo.com/video/577432340?h=d4366bb7dd" frameborder="0" allowfullscreen></iframe>
             </div>
-            <h3>Emoticate Commercia by Maria Fryer</h3>
+            <h3><span class="title">Emoticate Commercia</span> <span class="authors">by Maria Fryer</span></h3>
         </div>
-        
         
     
-    
-    
         
-        <div class='student'>
-            
-
-            <div class='videoStudent-container'>
-
-                <iframe width="100%" height="100%" src="https://player.vimeo.com/video/577432011?h=b9e3865805" frameborder="0" allowfullscreen></iframe>
+        <div class="student-project">
+            <div class="project-video_container">
+                <iframe src="https://player.vimeo.com/video/577432011?h=b9e3865805" frameborder="0" allowfullscreen></iframe>
             </div>
-            <h3>FunBytes By betsabeh yeganeh</h3>
+            <h3><span class="title">FunBytes</span> <span class="authors">by betsabeh yeganeh</span></h3>
         </div>
         
-        
     
-    
+</div>
+
+
     </div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
