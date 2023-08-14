@@ -4,79 +4,76 @@ order = 3
 layout = "projects"
 
 [[cohort]]
-name= "X3 Selected Projects"
+name= "X3"
 
 
-[[cohort.students]]
+[[cohort.projects]]
 name= "Robotic Dispensing"
 video= "https://www.youtube.com/embed/SFSVFUO5ZOY"
 
 
 [[cohort]]
-name= "X3 Selected Projects"
+name= "X3"
 
 
 
-[[cohort.students]]
-name= "Xen: Tangible Interface by Alison Yanacek, Kelby Sandvick, Narges Safa"
+[[cohort.projects]]
+name= "Xen: Tangible Interface"
 video= "https://player.vimeo.com/video/658305041?h=4c67b53aa9" 
+authors="by Alison Yanacek, Kelby Sandvick, Narges Safa"
 
 
 
 [[cohort]]
-name= "X2 Selected Projects"
+name= "X2"
 
-
-
-[[cohort.students]]
-name= "Global Masks And Deep Learning by Nicole Escalante & Maria Fryer"
+[[cohort.projects]]
+name= "Global Masks And Deep Learning"
 video= "https://player.vimeo.com/video/577432640" 
+authors="by Nicole Escalante & Maria Fryer"
 
-
-
-[[cohort.students]]
-name= "Synesthesia and Ai by Valiny Lovan & Jessica Olsen"
+[[cohort.projects]]
+name= "Synesthesia and Ai"
 video= "https://player.vimeo.com/video/577432948?h=783224d90e" 
+authors="by Valiny Lovan & Jessica Olsen"
 
-
-
-
-[[cohort.students]]
-name= "Emotional Intelligence by Jonathan Lai & Novia Elvina"
+[[cohort.projects]]
+name= "Emotional Intelligence"
 video= "https://player.vimeo.com/video/577432495?h=e24a1080b7" 
+authors="by Jonathan Lai & Novia Elvina"
 
-
-
-[[cohort.students]]
-name= "Interactive Structure by Zahra Golestanha"
+[[cohort.projects]]
+name= "Interactive Structure"
 video= "https://player.vimeo.com/video/577433257?h=93f0adf657" 
+authors="by Zahra Golestanha"
 
-
-
-[[cohort.students]]
-name= "Research Method Video Essay by Valiny Lovan"
+[[cohort.projects]]
+name= "Research Method Video Essay"
 video= "https://player.vimeo.com/video/577433617?h=0044f5e94c" 
+authors="by Valiny Lovan"
 
-[[cohort.students]]
-name= "Research Method Video Essay by Nicole Escalante"
+[[cohort.projects]]
+name= "Research Method Video Essay"
 video= "https://player.vimeo.com/video/577433896?h=8374c25094" 
+authors="by Nicole Escalante"
 
-[[cohort.students]]
-name= "Smart VAI by Jessica Blay, Nicole Escalante and Taylor Rice"
+[[cohort.projects]]
+name= "Smart VAI"
 video= "https://player.vimeo.com/video/577723420?h=c20f5c9173" 
+authors="by Jessica Blay, Nicole Escalante and Taylor Rice"
 
 
-[[cohort.students]]
-name= "Emoticate Commercia by Maria Fryer"
+[[cohort.projects]]
+name= "Emoticate Commercia"
 video= "https://player.vimeo.com/video/577432340?h=d4366bb7dd" 
-
-
+authors="by Maria Fryer"
 
 [[cohort]]
-name= "X1 Selected Projects"
-[[cohort.students]]
-name= "FunBytes By betsabeh yeganeh"
+name= "X1"
+[[cohort.projects]]
+name= "FunBytes"
 video= "https://player.vimeo.com/video/577432011?h=b9e3865805" 
+authors="by betsabeh yeganeh"
 
 +++
 

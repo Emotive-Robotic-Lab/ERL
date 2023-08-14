@@ -3,26 +3,59 @@
 {{ end }}
 
 {{ define "main" }}
+<style>
+    .selected-projects {
+        display: grid;
+        gap: 0px 20px;
+    }
+    
+    /* 1 column for small screen sizes */
+    .selected-projects {
+        grid-template-columns: 100%;
+    }
+    /* 2 columns otherwise */
+    @media (min-width: 780px) {
+        .selected-projects {
+            grid-template-columns: 50% 50%;
+        }
+    }
+
+    .student-project {
+        margin-bottom: 1rem;
+    }
+    
+    .student-project h3 {
+        font-size: 1rem;
+    }
+
+    .student-project .title {
+        text-transform: uppercase;
+    }
+
+    .project-video_container {
+        background-color: black;
+        display: flex;
+    }
+
+    .project-video_container iframe {
+        width: 100%;
+        aspect-ratio: 2;
+    }
+</style>
+
 {{ .Content }}
 
-<div class="students">
-
-
+<div class="selected-projects">
     {{ range $cohort := .Param "cohort" }}
-    {{/* <h2>{{ $cohort.name}}</h2> */}}
-    {{/* <div class='student-group'> */}}
-        {{ range $student := $cohort.students }}
-        <div class='student'>
-            {{/* <img src="{{ $student.image }}" /> */}}
-
-            <div class='videoStudent-container'>
-
-                <iframe width="100%" height="100%" src="{{ $student.video }}" frameborder="0" allowfullscreen></iframe>
+        {{ range $project := $cohort.projects }}
+        <div class="student-project">
+            <div class="project-video_container">
+                <iframe src="{{ $project.video }}" frameborder="0" allowfullscreen></iframe>
             </div>
-            <h3>{{ $student.name }}</h3>
+            <h3><span class="title">{{ $project.name }}</span> <span class="authors">{{$project.authors}}</span></h3>
         </div>
         {{ end }}
-        {{/*
-    </div> */}}
     {{ end }}
-    {{ end }}
+</div>
+
+{{ end }} {{/*  main end  */}}
