@@ -6,21 +6,23 @@
 {{ .Content }}
 
 <div class="students">
+
+
     {{ range $cohort := .Param "cohort" }}
-    <h2>{{ $cohort.name}}</h2>
-    <div class='student-group'>
+    {{/* <h2>{{ $cohort.name}}</h2> */}}
+    {{/* <div class='student-group'> */}}
         {{ range $student := $cohort.students }}
         <div class='student'>
-            <img src="{{ $student.image }}" />
-            {{ if $student.vimeo }}
-            <iframe title="vimeo-player" src="{{ $student.video }}" frameborder="0" allowfullscreen></iframe>
-            {{ else if $student.youtube }}
-            <iframe width="560" height="315" src="{{ $student.video }}" frameborder="0" allowfullscreen></iframe>
-            {{ end }}
+            {{/* <img src="{{ $student.image }}" /> */}}
+
+            <div class='videoStudent-container'>
+
+                <iframe width="100%" height="100%" src="{{ $student.video }}" frameborder="0" allowfullscreen></iframe>
+            </div>
             <h3>{{ $student.name }}</h3>
         </div>
         {{ end }}
-    </div>
+        {{/*
+    </div> */}}
     {{ end }}
-</div>
-{{ end }}
+    {{ end }}

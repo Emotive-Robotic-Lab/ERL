@@ -9,7 +9,7 @@ name= "X3 Selected Projects"
 
 [[cohort.students]]
 name= "Robotic Dispensing"
-video= "https://www.youtube.com/watch?v=SFSVFUO5ZOY&t=2s&ab_channel=BehnazFarahi"
+video= "https://www.youtube.com/embed/SFSVFUO5ZOY"
 
 
 [[cohort]]
@@ -83,4 +83,4 @@ video= "https://player.vimeo.com/video/577432011?h=b9e3865805"
 
 **ABOUT SELECTED PROJECTS**
 
-The HXDI selected projects include interdisciplinary works which spans across scales, mediums, theory and practice. Students engages with AI Deep Learning Algorithms, Physical Computing, Algorithmic Design, 360 Videos, VR, AR, Creative Coding and Immersive Installations.
+The Emotive Robotic Lab selected projects include interdisciplinary works which spans across scales and mediums, theory and practice. Students engages with AI Deep Learning Algorithms, Physical Computing, Algorithmic Design, VR, AR, Creative Coding and Immersive Installations.
