@@ -12,6 +12,21 @@ name= "Robotic Dispensing"
 video= "https://www.youtube.com/embed/SFSVFUO5ZOY"
 
 
+[[cohort.projects]]
+name= "Robotic Drawing"
+video= "https://www.youtube.com/embed/zlfGUNxL-cE?si=juWCHPqkQchU55Cg"
+
+
+[[cohort.projects]]
+name= "Photogrammetry + 3D Printing"
+video= "https://www.youtube.com/embed/ulTzdDTqrKQ?si=f293VFqZqsCZHtbQ"
+
+[[cohort.projects]]
+name= "Immersive Sensory Design"
+video= "https://www.youtube.com/embed/1fwQ8Cczeiw?si=bIQwV-_VEDqdEQVi"
+
+
+
 [[cohort]]
 name= "X3"
 
@@ -80,4 +95,4 @@ authors="by betsabeh yeganeh"
 
 **ABOUT SELECTED PROJECTS**
 
-The Emotive Robotic Lab selected projects include interdisciplinary works which spans across scales and mediums, theory and practice. Students engages with AI Deep Learning Algorithms, Physical Computing, Algorithmic Design, VR, AR, Creative Coding and Immersive Installations.
+The Emotive Robotic Lab selected projects include interdisciplinary works which spans across scales and mediums. Students engages with AI Deep Learning Algorithms, Physical Computing, Algorithmic Design, Creative Coding and immersive installations design.
