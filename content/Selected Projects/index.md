@@ -22,7 +22,7 @@ name= "Photogrammetry + 3D Printing"
 video= "https://www.youtube.com/embed/ulTzdDTqrKQ?si=f293VFqZqsCZHtbQ"
 
 [[cohort.projects]]
-name= "Immersive Sensory Design"
+name= "Immersive Sensory"
 video= "https://www.youtube.com/embed/1fwQ8Cczeiw?si=bIQwV-_VEDqdEQVi"
 
 

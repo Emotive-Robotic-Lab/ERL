@@ -4,7 +4,7 @@ order = 2
 layout = "students"
 
 [[cohort]]
-name= "X3 Cohort"
+
 [[cohort.students]]
 name= "Alison Yanacek"
 image= "./AlisonYanacek.png"
@@ -16,8 +16,6 @@ image= "./KelbySandvick.png"
 name= "Narges Goshayeshisafa"
 image= "./NargesGoshayeshisafa.png"
 
-[[cohort]]
-name= "X2 Cohort"
 [[cohort.students]]
 name= "Nicole Escalante"
 image= "./NicoleEscalante.png"
