@@ -7,24 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://emotive-robotic-lab.github.io/HXDI/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Admission</title>
-      <link>https://emotive-robotic-lab.github.io/HXDI/admission/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://emotive-robotic-lab.github.io/HXDI/admission/</guid>
-      <description>Applying to the Master of Arts, Human Experience Design Interactions Program
-For detailed information please visit our Admissions Page.</description>
-    </item>
-    
-    <item>
-      <title>Faculty</title>
+      <title>Emotive Robotic Lab</title>
       <link>https://emotive-robotic-lab.github.io/HXDI/faculty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://emotive-robotic-lab.github.io/HXDI/faculty/</guid>
-      <description>FACULTY HXDI
-Heather Barker Interim Chair, Associate Professor of Design, Graduate Coordinator Department Chair, Tenured, Faculty
-Heather Renée Barker, Associate Professor of Design at California State University Long Beach is a human urbanist. She works with interdisciplinary teams to facilitate human-centered approaches to improving the human/data hybrid experience. By leveraging a range of analog and digital tools gamification, and data-visualization, Heather brings value to business and civic organizations as they develop novel solutions to personal interface, animated space, community engagement, and sustainable urban challenges.</description>
+      <description>About
+The Emotive Robotic Lab, led by Dr. Behnaz Farahi, is an innovative research lab within the CSULB Design Department. This lab specializes in integrating robotics into the field of design. It delves deeply into the multifaceted realm of human-robot interaction, placing a strong emphasis on pivotal areas such as robotic fabrication, advanced digital design techniques, and the exploration of cutting-edge materials. By conducting experiments and research in these domains, the lab seeks to advance the frontiers of design technology and foster a deeper understanding of the symbiotic relationship between humans and robots.</description>
     </item>
     
     <item>
@@ -34,7 +23,7 @@ Heather Renée Barker, Associate Professor of Design at California State Univers
       
       <guid>https://emotive-robotic-lab.github.io/HXDI/selected-projects/</guid>
       <description>ABOUT SELECTED PROJECTS
-The Emotive Robotic Lab selected projects include interdisciplinary works which spans across scales and mediums, theory and practice. Students engages with AI Deep Learning Algorithms, Physical Computing, Algorithmic Design, VR, AR, Creative Coding and Immersive Installations.</description>
+The Emotive Robotic Lab selected projects include interdisciplinary works which spans across scales and mediums. Students engages with AI Deep Learning Algorithms, Physical Computing, Algorithmic Design, Creative Coding and immersive installations design.</description>
     </item>
     
     <item>
@@ -43,8 +32,7 @@ The Emotive Robotic Lab selected projects include interdisciplinary works which 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://emotive-robotic-lab.github.io/HXDI/students/</guid>
-      <description>ABOUT COHORT
-The HXDI cohort is composed of students from vast educational and professional backgrounds. Because of their diversity each project completed is unique and displays their skillsets, experiences and passions. This diverseness helps shape their cohort dynamic and program.</description>
+      <description>Research Team</description>
     </item>
     
   </channel>
