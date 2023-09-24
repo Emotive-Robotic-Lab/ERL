@@ -1,3 +1,4 @@
-baseURL = "https://emotive-robotic-lab.github.io/HXDI/"
+baseURL = "https://emotive-robotic-lab.github.io/ERL/"
 languageCode = "en-us"
-title = "HXDI"
+title = "ERL"
+publishDir = "docs"

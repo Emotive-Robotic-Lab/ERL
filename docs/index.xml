@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on HXDI</title>
-    <link>https://emotive-robotic-lab.github.io/HXDI/</link>
-    <description>Recent content in Home on HXDI</description>
+    <title>Home on ERL</title>
+    <link>https://emotive-robotic-lab.github.io/ERL/</link>
+    <description>Recent content in Home on ERL</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://emotive-robotic-lab.github.io/HXDI/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://emotive-robotic-lab.github.io/ERL/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emotive Robotic Lab</title>
-      <link>https://emotive-robotic-lab.github.io/HXDI/emotive-robotic-lab/</link>
+      <link>https://emotive-robotic-lab.github.io/ERL/emotive-robotic-lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://emotive-robotic-lab.github.io/HXDI/emotive-robotic-lab/</guid>
+      <guid>https://emotive-robotic-lab.github.io/ERL/emotive-robotic-lab/</guid>
       <description>About
 The Emotive Robotic Lab, led by Dr. Behnaz Farahi, is an innovative research lab within the CSULB Design Department. This lab specializes in integrating robotics into the field of design. It delves deeply into the multifaceted realm of human-robot interaction, placing a strong emphasis on pivotal areas such as robotic fabrication, advanced digital design techniques, and the exploration of cutting-edge materials. By conducting experiments and research in these domains, the lab seeks to advance the frontiers of design technology and foster a deeper understanding of the symbiotic relationship between humans and robots.</description>
     </item>
     
     <item>
       <title>Selected Projects</title>
-      <link>https://emotive-robotic-lab.github.io/HXDI/selected-projects/</link>
+      <link>https://emotive-robotic-lab.github.io/ERL/selected-projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://emotive-robotic-lab.github.io/HXDI/selected-projects/</guid>
+      <guid>https://emotive-robotic-lab.github.io/ERL/selected-projects/</guid>
       <description>ABOUT SELECTED PROJECTS
 The Emotive Robotic Lab selected projects include interdisciplinary works which spans across scales and mediums. Students engages with AI Deep Learning Algorithms, Physical Computing, Algorithmic Design, Creative Coding and immersive installations design.</description>
     </item>
     
     <item>
       <title>Students</title>
-      <link>https://emotive-robotic-lab.github.io/HXDI/students/</link>
+      <link>https://emotive-robotic-lab.github.io/ERL/students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://emotive-robotic-lab.github.io/HXDI/students/</guid>
+      <guid>https://emotive-robotic-lab.github.io/ERL/students/</guid>
       <description>Research Team</description>
     </item>
     
