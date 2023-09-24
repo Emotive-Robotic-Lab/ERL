@@ -67,21 +67,6 @@ name= "Research Method Video Essay"
 video= "https://player.vimeo.com/video/577433617?h=0044f5e94c" 
 authors="by Valiny Lovan"
 
-[[cohort.projects]]
-name= "Research Method Video Essay"
-video= "https://player.vimeo.com/video/577433896?h=8374c25094" 
-authors="by Nicole Escalante"
-
-[[cohort.projects]]
-name= "Smart VAI"
-video= "https://player.vimeo.com/video/577723420?h=c20f5c9173" 
-authors="by Jessica Blay, Nicole Escalante and Taylor Rice"
-
-
-[[cohort.projects]]
-name= "Emoticate Commercia"
-video= "https://player.vimeo.com/video/577432340?h=d4366bb7dd" 
-authors="by Maria Fryer"
 
 [[cohort]]
 name= "X1"
