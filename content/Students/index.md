@@ -6,6 +6,10 @@ layout = "students"
 [[cohort]]
 
 [[cohort.students]]
+name= "Zhenming Qiao"
+image= "./Bill.png"
+
+[[cohort.students]]
 name= "Alison Yanacek"
 image= "./AlisonYanacek.png"
 [[cohort.students]]

@@ -6,6 +6,10 @@ layout = "projects"
 [[cohort]]
 name= "X3"
 
+[[cohort.projects]]
+name= "Narges Goshayeshisafa Traces of Memory, Thesis Chair Dr. Behnaz Farahi"
+video= "https://www.youtube.com/embed/ntLSCP5ivAA?si=uCUXUJ7QaL3F_Wxj"
+
 
 [[cohort.projects]]
 name= "Robotic Dispensing"
