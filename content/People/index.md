@@ -18,9 +18,6 @@ Farahi has won several awards including [the Cooper Hewitt Smithsonian Design Mu
 **Collaborators**
 
 
-{{< bio src="MarthaCarter.png" name="Martha Carter" url="https://www.csulb.edu/theatre-arts/page/martha-carter" affiliation="Assistant Professor of Theater Faculty, Tenure-Track" >}}
-Martha Carter studied theatrical design with an emphasis in lighting at the University of Florida. Since her graduation from the University of Florida she has worked professionally as a lighting designer, master electrician, drafts person, and as an assistant on lighting for both entertainment and architectural designs. She continued her dream by obtaining her MFA in Lighting Design from the University of California at Irvine. Martha enjoys working in a wide array of theatrical entertainments including theme parks, live events, dance, theatre and art installations. She has designed and assisted in many theatres on the east and west coasts, some of which include Romeo and Juliet at Great River Shakespeare Festival, The Why at The Blank Theater, The Chance Theater, Pygmalion at Long Beach Playhouse, and Marry me a Little at Theater Out. She works with a number of choreographers as their lighting designer and collaborates with them throughout their creative process. She focuses on teaching her students about lighting composition and how color, beam angle, and the brush strokes of light can aid in storytelling. Martha enjoys collaborating with ensemble companies to create new work that addresses the current political and social issues of today to incite positive change within communities.
-{{< /bio >}}
 
 {{< bio src="pace.png" name="Dr. Douglas Pace" url="https://home.csulb.edu/~dpace/r" affiliation="Associate Professor of Molecular Life Sciences Center, Biological Sciences, Tenure" >}}
 
@@ -36,6 +33,10 @@ Dr. Ahrar’s research focuses on developing automation tools and their applicat
 
 {{< /bio >}}
 
+
+{{< bio src="MarthaCarter.png" name="Martha Carter" url="https://www.csulb.edu/theatre-arts/page/martha-carter" affiliation="Assistant Professor of Theater Faculty, Tenure-Track" >}}
+Martha Carter studied theatrical design with an emphasis in lighting at the University of Florida. Since her graduation from the University of Florida she has worked professionally as a lighting designer, master electrician, drafts person, and as an assistant on lighting for both entertainment and architectural designs. She continued her dream by obtaining her MFA in Lighting Design from the University of California at Irvine. Martha enjoys working in a wide array of theatrical entertainments including theme parks, live events, dance, theatre and art installations. She has designed and assisted in many theatres on the east and west coasts, some of which include Romeo and Juliet at Great River Shakespeare Festival, The Why at The Blank Theater, The Chance Theater, Pygmalion at Long Beach Playhouse, and Marry me a Little at Theater Out. She works with a number of choreographers as their lighting designer and collaborates with them throughout their creative process. She focuses on teaching her students about lighting composition and how color, beam angle, and the brush strokes of light can aid in storytelling. Martha enjoys collaborating with ensemble companies to create new work that addresses the current political and social issues of today to incite positive change within communities.
+{{< /bio >}}
 
 {{< bio src="TsiambwomAkuchu.png" name="Tsiambwom Akuchu" url="https://www.akuchu.com/" affiliation="Assistant Professor of Dance,   Tenure-Track" >}}
 
