@@ -1,0 +1,11 @@
+<div class="research">
+    <h2 class="name"><a href="{{ .Get `url` }}">{{.Get `name`}}</a></h2>
+    {{ $resource := .Page.Resources.GetMatch (.Get "src") }}
+    {{ $image := $resource.Resize "1200x" }}
+    <p class="affiliation">{{.Get `affiliation`}}</p>
+    <p class="names">{{.Get `names`}}</p>
+    <div class="content">
+        <div class="description">{{.Inner | markdownify}}</div>
+        <img class="headshot img-fluid" src="{{$image.RelPermalink}}" />
+    </div>
+</div>

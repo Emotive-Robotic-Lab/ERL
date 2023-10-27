@@ -1,6 +1,6 @@
 +++
-title = "Students"
-order = 2
+title = "Student Assistants"
+order = 4
 layout = "students"
 
 [[cohort]]
@@ -30,7 +30,7 @@ image= "./NicoleEscalante.png"
 +++
 
 
-**Research Team**
+**Student Research Assistants**
 
 
 

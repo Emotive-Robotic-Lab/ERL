@@ -13,27 +13,39 @@
       
       <guid>https://emotive-robotic-lab.github.io/ERL/people/</guid>
       <description>People
-Behnaz FarahiAssistant Professor of Design Faculty, Tenure-Track
+Dr. Behnaz FarahiAssistant Professor of Design Faculty, Tenure-Track
 Director of Emotive Robotic Lab, trained as an architect, Behnaz Farahi is an award winning designer and critical maker based in Los Angeles. She holds a PhD in Interdisciplinary Media Arts and Practice from USC School of Cinematic Arts. Currently she is an Assistant Professor at the Department of Design, California State University, Long Beach. She explores how to foster an empathetic relationship between the human body and the space around it using computational systems.</description>
     </item>
     
     <item>
-      <title>Selected Projects</title>
+      <title>Research Projects</title>
+      <link>https://emotive-robotic-lab.github.io/ERL/research-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emotive-robotic-lab.github.io/ERL/research-projects/</guid>
+      <description>Research Projects
+Secret Life of LarvaeCSULB, Collaborative research between Design, Biological Sciences and Biomedical Engineering
+Dr. Douglas Pace, Dr. Siavash Ahrar, Dr. Behnaz Farahi
+Our team will study the phenomenon of phenotypic plasticity during larval development of the Pacific sand dollar (Dendraster excentricus) from biological, engineering, and design perspectives. Phenotypic plasticity is a single organism&amp;rsquo;s ability to possess many different phenotypes based on environmental interactions. This research is motivated by the importance of phenotypic plasticity as a first response mechanism for organisms coping with climate change.</description>
+    </item>
+    
+    <item>
+      <title>Student Assistants</title>
+      <link>https://emotive-robotic-lab.github.io/ERL/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emotive-robotic-lab.github.io/ERL/students/</guid>
+      <description>Student Research Assistants</description>
+    </item>
+    
+    <item>
+      <title>Student Projects</title>
       <link>https://emotive-robotic-lab.github.io/ERL/selected-projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://emotive-robotic-lab.github.io/ERL/selected-projects/</guid>
       <description>ABOUT SELECTED PROJECTS
-The Emotive Robotic Lab selected projects include interdisciplinary works which spans across scales and mediums. Students engages with AI Deep Learning Algorithms, Physical Computing, Algorithmic Design, Creative Coding and immersive installations design.</description>
-    </item>
-    
-    <item>
-      <title>Students</title>
-      <link>https://emotive-robotic-lab.github.io/ERL/students/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://emotive-robotic-lab.github.io/ERL/students/</guid>
-      <description>Research Team</description>
+The Emotive Robotic Lab selected projects include interdisciplinary works under supervision of Dr. Behnaz Farahi, which spans across scales and mediums. Students engages with AI Deep Learning Algorithms, Physical Computing, Algorithmic Design, Creative Coding and immersive installations design.</description>
     </item>
     
   </channel>

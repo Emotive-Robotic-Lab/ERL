@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+        
+ERL &ndash; Research Projects
+
+    </title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/ERL/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/ERL/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/ERL/favicon-16x16.png">
+    <link rel="manifest" href="/ERL/site.webmanifest">
+    <link rel="mask-icon" href="/ERL/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/ERL/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/ERL/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <style>
+        .navbar {
+            background-color: #939393;
+            color: black;
+        }
+
+
+
+        .ERL-logo {
+            position: relative;
+            width: 100%;
+            height: 30rem;
+            z-index: -1;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        .ERL-logo iframe {
+            width: 100vw;
+            height: 56.25vw;
+             
+            position: absolute;
+            top: 45%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .logo-text {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+        }
+
+        .logo-text svg {
+            max-width: 100%;
+            transform: translate(-50%, -50%);
+        }
+
+        .navbar-brand a,
+        .navbar-brand a:visited {
+            color: rgb(0, 0, 0);
+        }
+
+
+        h2 {
+            font-size: 1.1rem;
+            margin-top: 2rem;
+        }
+
+        p {
+            text-align: justify;
+        }
+
+        .main-content {
+            margin-top: 1rem;
+            margin-bottom: 5rem;
+
+        }
+
+        li li {
+            list-style: none;
+        }
+
+        li ul {
+            font-style: italic;
+            margin-bottom: 2rem;
+        }
+
+        ul {
+            margin-bottom: 2rem;
+        }
+
+        .bio {
+            padding-left: 2rem;
+            margin-bottom: 2rem;
+        }
+
+
+
+        .bio .affiliation {
+            margin-bottom: 0.5rem;
+            font-style: italic;
+        }
+
+        @media (max-width: 780px) {
+            .bio .content {
+                flex-direction: column-reverse;
+
+            }
+
+            .bio .headshot {
+                align-self: center;
+            }
+        }
+
+        .bio .content {
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .bio .description {
+            text-align: justify;
+            margin-right: 2rem;
+        }
+
+        .bio .headshot {
+            max-width: 12rem;
+        }
+
+        a {
+            color: #e3036d;
+        }
+
+        a:visited {
+            color: #e3036d;
+        }
+
+        a:hover {
+            color: #e3036d;
+        }
+
+
+
+        .student-group {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-bottom: 3rem;
+            row-gap: 30px;
+            column-gap: 80px;
+
+        }
+
+
+        .student {
+            display: flex;
+            max-width: 20%;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .student h3 {
+            text-align: center;
+            font-size: 1rem;
+        }
+
+
+
+        .students h2 {
+            text-align: center;
+            font-size: 1.5rem;
+        }
+
+        .navbar.navbar-dark .navbar-nav .nav-link {
+            color: #000;
+        }
+
+        .navbar-dark .navbar-brand:focus,
+        .navbar-dark .navbar-brand:hover {
+            color: #e3036d;
+        }
+
+        .navbar.navbar-dark .navbar-nav .nav-link:hover {
+            color: #e3036d;
+        }
+
+        .navbar-dark .navbar-brand {
+            color: rgb(0, 0, 0);
+        }
+
+        a.nav-link:hover {
+            color: #e3036d;
+        }
+
+        .navbar-dark .navbar-brand a:hover {
+            color: #e3036d;
+        }
+
+
+        @media (max-width: 780px) {
+            .sponsor-group-other {
+                flex-direction: column;
+                row-gap: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar sticky-top navbar-expand-lg navbar-dark fixed-top">
+        <span class="navbar-brand">
+            <a href="https://www.csulb.edu/design/master-of-arts-human-experience-design-interactions-hxdi">CSULB</a> |
+            <a href="/ERL/">Emotive Robotic Lab</a>
+        </span>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                
+                
+                <li>
+                    
+                    <a class="nav-link " href="/ERL/people/">People
+                        
+                    </a>
+                </li>
+                
+                <li>
+                    
+                    <a class="nav-link active" href="/ERL/research-projects/">Research Projects
+                        
+                        <span class="sr-only">(current)</span>
+                        
+                    </a>
+                </li>
+                
+                <li>
+                    
+                    <a class="nav-link " href="/ERL/selected-projects/">Student Projects
+                        
+                    </a>
+                </li>
+                
+                <li>
+                    
+                    <a class="nav-link " href="/ERL/students/">Student Assistants
+                        
+                    </a>
+                </li>
+                
+            </ul>
+        </div>
+    </nav>
+    <div class="ERL-logo">
+        <iframe
+            src="https://www.youtube.com/embed/nF87YWJx_cY?controls=0&autoplay=1&mute=1&playsinline=1&playlist=nF87YWJx_cY&loop=1"></iframe>
+
+    </div>
+
+    <div class="container main-content">
+        
+<p><strong>Research Projects</strong></p>
+<div class="research">
+    <h2 class="name"><a href="">Secret Life of Larvae</a></h2>
+    
+    
+    <p class="affiliation">CSULB, Collaborative research between Design,  Biological Sciences and Biomedical Engineering</p>
+    <p class="names">Dr. Douglas Pace, Dr. Siavash Ahrar, Dr. Behnaz Farahi</p>
+    <div class="content">
+        <div class="description"><p>Our team will study the phenomenon of phenotypic plasticity during larval development of the Pacific sand dollar (Dendraster excentricus) from biological, engineering, and design perspectives. Phenotypic plasticity is a single organism&rsquo;s ability to possess many different phenotypes based on environmental interactions. This research is motivated by the importance of phenotypic plasticity as a first response mechanism for organisms coping with climate change. Sand dollars are benthic marine invertebrates. They possess a planktonic (free-floating) feeding larval stage. The larval stage is critical for keeping adult populations stable. Larvae of the D. excentricus possess food-induced phenotypic plasticity, where they will change morphology to match the amount of available food adaptively.</p>
+<p>Our team will use an interdisciplinary approach to investigate the biological consequences of phenotypic plasticity (Pace), biomechanical analyses of larval form and hydrodynamic performance (Ahrar), and analysis of design principles (Farahi). Larvae fed low and high amounts of algae will be used to investigate the hydrodynamics (vortex fields) generated by cilia-mediated swimming and feeding behaviors as a novel metric for larval performance. Understanding the mechanisms (biology perspective) and the consequences (engineering and design perspectives) of phenotypic plasticity is critical for designing accurate models of organismal responses to climate change.</p>
+</div>
+        <img class="headshot img-fluid" src="/ERL/research-projects/Sand%20Dollar_hu63d531ff808440adbd655a833c64c678_558119_1200x0_resize_q75_box.jpg" />
+    </div>
+</div>
+<div class="research">
+    <h2 class="name"><a href="">Dance with Robot</a></h2>
+    
+    
+    <p class="affiliation">CSULB, Collaborative research between Design and Dance Departments</p>
+    <p class="names">Dr. Behnaz Farahi, Tsiambwom “T” Akuchu, Martha Carter</p>
+    <div class="content">
+        <div class="description">This research aims to produce a performance showcasing the dynamic interaction between a dancer and a robot. Through the use of lighting,  cables, and sound, we create an atmosphere that accentuates the connection and tension between the dancer and the robots. This  choreography symbolizes the constant struggle for freedom inspired by women in Iran.</div>
+        <img class="headshot img-fluid" src="/ERL/research-projects/Dance%20Robot_hu172d044590f7ab2204afdb80d7f6cbc8_1519800_1200x0_resize_box_3.png" />
+    </div>
+</div>
+
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
+

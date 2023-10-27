@@ -13,7 +13,7 @@
     <div class='student-group'>
         {{ range $student := $cohort.students }}
         <div class='student'>
-            <img src="{{ $student.image }}" />
+            <img class="headshot img-fluid" src="{{ $student.image }}" />
             <h3>{{ $student.name }}</h3>
         </div>
         {{ end }}

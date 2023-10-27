@@ -8,11 +8,12 @@
         display: grid;
         gap: 0px 20px;
     }
-    
+
     /* 1 column for small screen sizes */
     .selected-projects {
         grid-template-columns: 100%;
     }
+
     /* 2 columns otherwise */
     @media (min-width: 780px) {
         .selected-projects {
@@ -23,7 +24,7 @@
     .student-project {
         margin-bottom: 1rem;
     }
-    
+
     .student-project h3 {
         font-size: 1rem;
     }
@@ -47,15 +48,17 @@
 
 <div class="selected-projects">
     {{ range $cohort := .Param "cohort" }}
-        {{ range $project := $cohort.projects }}
-        <div class="student-project">
-            <div class="project-video_container">
-                <iframe src="{{ $project.video }}" frameborder="0" allowfullscreen></iframe>
-            </div>
-            <h3><span class="title">{{ $project.name }}</span> <span class="authors">{{$project.authors}}</span></h3>
+    {{ range $project := $cohort.projects }}
+    <div class="student-project">
+        <div class="project-video_container">
+            <iframe src="{{ $project.video }}" frameborder="0" allowfullscreen></iframe>
+            <img src="{{ $project.image}}">
         </div>
-        {{ end }}
+        <h3><span class="title">{{ $project.name }}</span> <span class="authors">{{$project.authors}}</span></h3>
+    </div>
+    {{ end }}
     {{ end }}
 </div>
 
-{{ end }} {{/*  main end  */}}
+
+{{ end }} {{/* main end */}}
