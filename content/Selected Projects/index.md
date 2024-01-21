@@ -6,6 +6,9 @@ layout = "projects"
 
 [[cohort]]
 name= "X4"
+[[cohort.projects]]
+name= "Denisse Alvarez, Alea Hurst, Mark Newport, Eva Nie, Liliana Rodriguez, Bea Bianca Rombaoa, Tristan Van, Thi Vuong"
+video="https://www.youtube.com/embed/MirTtaFanN8?si=dJGWugn8Di9A0i30"
 
 [[cohort.projects]]
 name= "Immersive Experience Design by Keira Wong, Aleyna Akkan, Ritesh Adithya, Gabe Gutierrez"
