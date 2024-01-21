@@ -9,8 +9,7 @@ name= "X4"
 
 [[cohort.projects]]
 name= "Immersive Experience Design by Keira Wong, Aleyna Akkan, Ritesh Adithya, Gabe Gutierrez"
-video= "https://youtu.be/yN6s0IwyvJk"
-
+video= "https://www.youtube.com/embed/yN6s0IwyvJk?si=JIUrfbZdZIsojytM"
 
 [[cohort]]
 name= "X3"
