@@ -4,6 +4,13 @@ order = 3
 layout = "projects"
 
 
+[[cohort]]
+name= "X4"
+
+[[cohort.projects]]
+name= "Immersive Experience Design by Keira Wong, Aleyna Akkan, Ritesh Adithya, Gabe Gutierrez"
+video= "https://youtu.be/yN6s0IwyvJk"
+
 
 [[cohort]]
 name= "X3"
